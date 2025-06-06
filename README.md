@@ -11,8 +11,7 @@ This project implements two distinct distributed computing paradigms:
 
 Both approaches are evaluated on real-world bioinformatics datasets, specifically gene expression analysis for leukemia classification using the Golub dataset.
 ## video 
-https://www.canva.com/design/DAGpDLbYifs/mguQq4Jv5an9K8y6gkPUoQ/edit?utm_content=DAGpDLbYifs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
-
+https://nileuniversity-my.sharepoint.com/personal/e_mahmoud2283_nu_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Fe%5Fmahmoud2283%5Fnu%5Fedu%5Feg%2FDocuments%2FCream%20and%20Beige%20Simple%20Clean%20Project%20Overview%20Presentation%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef3ad3559%2Ddda0%2D439e%2Dbf65%2Dbedc97119bf8&isDarkMode=false
 ## 🏗️ Architecture
 
 ### Task 1: Mini-HPC Cluster
