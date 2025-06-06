@@ -10,6 +10,8 @@ This project implements two distinct distributed computing paradigms:
 - **Task 2**: Hybrid HPC-Big Data cluster using Docker Swarm and Apache Spark
 
 Both approaches are evaluated on real-world bioinformatics datasets, specifically gene expression analysis for leukemia classification using the Golub dataset.
+## video 
+https://www.canva.com/design/DAGpDLbYifs/mguQq4Jv5an9K8y6gkPUoQ/edit?utm_content=DAGpDLbYifs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
 ## 🏗️ Architecture
 
@@ -233,8 +235,7 @@ project_hpc_hybrid_cluster/
 - **Container Orchestration**: Docker Swarm cluster management
 - **Bioinformatics ML**: Real-world gene expression analysis
 - **Performance Analysis**: Comparative evaluation of different approaches
-## video 
-https://www.canva.com/design/DAGpDLbYifs/mguQq4Jv5an9K8y6gkPUoQ/edit?utm_content=DAGpDLbYifs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+
 
 ## 📚 References
 
