@@ -233,6 +233,8 @@ project_hpc_hybrid_cluster/
 - **Container Orchestration**: Docker Swarm cluster management
 - **Bioinformatics ML**: Real-world gene expression analysis
 - **Performance Analysis**: Comparative evaluation of different approaches
+## video 
+https://www.canva.com/design/DAGpDLbYifs/mguQq4Jv5an9K8y6gkPUoQ/edit?utm_content=DAGpDLbYifs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
 ## 📚 References
 
