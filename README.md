@@ -1,6 +1,8 @@
 # Mini-HPC and Hybrid HPC-Big Data Clusters
 
 A comprehensive distributed computing project demonstrating both traditional HPC and modern Big Data processing approaches through machine learning on bioinformatics datasets.
+## video 
+https://nileuniversity-my.sharepoint.com/:v:/g/personal/e_mahmoud2283_nu_edu_eg/ETZKoZpvET5Chm1dz4n8wvoBJBM1-aUfFryOvIWBinJl6Q?e=oylhWX
 
 ## 🎯 Project Overview
 
@@ -10,8 +12,6 @@ This project implements two distinct distributed computing paradigms:
 - **Task 2**: Hybrid HPC-Big Data cluster using Docker Swarm and Apache Spark
 
 Both approaches are evaluated on real-world bioinformatics datasets, specifically gene expression analysis for leukemia classification using the Golub dataset.
-## video 
-https://nileuniversity-my.sharepoint.com/:v:/g/personal/e_mahmoud2283_nu_edu_eg/ETZKoZpvET5Chm1dz4n8wvoBJBM1-aUfFryOvIWBinJl6Q?e=oylhWX
 
 ## 🏗️ Architecture
 
